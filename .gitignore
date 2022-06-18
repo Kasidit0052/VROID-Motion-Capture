@@ -60,7 +60,7 @@ crashlytics-build.properties
 
 # Git Ignore
 .DS_Store
-./Assets/OpenCVForUnity/
-./Assets/Dlib/DlibFaceLandmarkDetector/
+./Assets/OpenCVForUnity/*
+./Assets/Dlib/DlibFaceLandmarkDetector/*
 
 
